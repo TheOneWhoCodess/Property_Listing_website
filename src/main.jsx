@@ -9,7 +9,7 @@ import Signup from './Component/Signup/Signup.jsx'
 import Houses from './Component/Houses/Houses.jsx'
 import Listing from './Component/Listing/Listing.jsx'
 import Usercontext from './Context/Usercontext.jsx'
-import Contact from './Component/Contactus/Contact.jsx'
+import Contact from './Component/Contacts/Contact.jsx'
 const router = createBrowserRouter(createRoutesFromElements(
   <Route path='/' element={<App/>} >
     <Route path='' element={<Home/>}/>

@@ -7,7 +7,7 @@ import Signup from './Component/Signup/Signup'
 import { Outlet } from 'react-router-dom'
 import Houses from './Component/Houses/Houses'
 import Listing from './Component/Listing/Listing'
-import Contact from './Component/Contactus/Contact'
+import Contact from './Component/Contacts/Contact'
 import Footer from './Component/Footer/Footer'
 
 function App() {
